@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Saikishore2002/shopping-cart/static/css/main.2a172f88.css",
-    "main.js": "/Saikishore2002/shopping-cart/static/js/main.841d0017.js",
-    "static/js/787.af3ac24f.chunk.js": "/Saikishore2002/shopping-cart/static/js/787.af3ac24f.chunk.js",
-    "index.html": "/Saikishore2002/shopping-cart/index.html",
-    "main.2a172f88.css.map": "/Saikishore2002/shopping-cart/static/css/main.2a172f88.css.map",
-    "main.841d0017.js.map": "/Saikishore2002/shopping-cart/static/js/main.841d0017.js.map",
-    "787.af3ac24f.chunk.js.map": "/Saikishore2002/shopping-cart/static/js/787.af3ac24f.chunk.js.map"
+    "main.css": "/shopping-cart/static/css/main.2a172f88.css",
+    "main.js": "/shopping-cart/static/js/main.b89fe435.js",
+    "static/js/787.af3ac24f.chunk.js": "/shopping-cart/static/js/787.af3ac24f.chunk.js",
+    "index.html": "/shopping-cart/index.html",
+    "main.2a172f88.css.map": "/shopping-cart/static/css/main.2a172f88.css.map",
+    "main.b89fe435.js.map": "/shopping-cart/static/js/main.b89fe435.js.map",
+    "787.af3ac24f.chunk.js.map": "/shopping-cart/static/js/787.af3ac24f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a172f88.css",
-    "static/js/main.841d0017.js"
+    "static/js/main.b89fe435.js"
   ]
 }
